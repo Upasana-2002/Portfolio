@@ -1,4 +1,4 @@
-# Upasana Panda — Dark Portfolio
+# Upasana Panda — Portfolio
 
 Open `index.html` in a browser. Keep `upasana-profile.png` in the same folder as the HTML file.
 
